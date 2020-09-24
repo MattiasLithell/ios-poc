@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e2e5cd64d43eb145a5344323168d9a2",
+    "revision": "ef0fea314bd9abd48b81e8c7048e51bb",
     "url": "/ios-poc/index.html"
   },
   {
-    "revision": "d498e331501445a49c72",
+    "revision": "82bf86c8d0e1154a144d",
     "url": "/ios-poc/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ios-poc/static/js/2.98a25565.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d498e331501445a49c72",
-    "url": "/ios-poc/static/js/main.2b62acab.chunk.js"
+    "revision": "82bf86c8d0e1154a144d",
+    "url": "/ios-poc/static/js/main.472f2f8a.chunk.js"
   },
   {
     "revision": "05400d899b516cd9ebba",
